@@ -16,8 +16,8 @@
 ### Desktop Screenshots
 
 <div style="display: flex; flex-direction: 'column'; align-items: 'center';">
-  <img src="/assets/home1.png" width="400px" alt="Podcastr" /> 
-  <img src="/assets/description.png" width="400px" alt="Podcastr" />
+  <img src="./assets/Home1.png" width="400px" alt="Podcastr" /> 
+  <img src="./assets/Description.png" width="400px" alt="Podcastr" />
 </div>
 
 ### You can view the project layout with more info through the link below:
